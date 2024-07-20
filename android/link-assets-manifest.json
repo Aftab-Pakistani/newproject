@@ -1,0 +1,69 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/_assets/fonts/Nexa-Black.ttf",
+      "sha1": "fbab2f0d8e13b7cb5b1859b26ddddaf08280e8a4"
+    },
+    {
+      "path": "src/_assets/fonts/Nexa-BlackItalic.ttf",
+      "sha1": "8ace20868f1a874ff91c633db246fa06592685bb"
+    },
+    {
+      "path": "src/_assets/fonts/Nexa-Bold.ttf",
+      "sha1": "7b0fc996290c1f99c68f11bbe954aab7ed5c6ed6"
+    },
+    {
+      "path": "src/_assets/fonts/Nexa-BoldItalic.ttf",
+      "sha1": "93cdf9c7448dde0fdd861d75dad140c5f01c67b7"
+    },
+    {
+      "path": "src/_assets/fonts/Nexa-Book.ttf",
+      "sha1": "4e1cef1ae4d5a4838db634de9230f3997f76645e"
+    },
+    {
+      "path": "src/_assets/fonts/Nexa-BookItalic.ttf",
+      "sha1": "ccc6df2214aadf3b0d04d21af227025a398fc4d1"
+    },
+    {
+      "path": "src/_assets/fonts/Nexa-Heavy.ttf",
+      "sha1": "0ca409bc6d1391d5a61d22a92f1a8b8283344584"
+    },
+    {
+      "path": "src/_assets/fonts/Nexa-HeavyItalic.ttf",
+      "sha1": "a0a2b7f9fd27f18f47fca848bac0d5daacb22983"
+    },
+    {
+      "path": "src/_assets/fonts/Nexa-Italic.ttf",
+      "sha1": "2c369dcef7aa17e3a2565866e9e73d8329c9e62c"
+    },
+    {
+      "path": "src/_assets/fonts/Nexa-Light.ttf",
+      "sha1": "674a120f30c9f7693a2a2f1e5aa82c641a9c955e"
+    },
+    {
+      "path": "src/_assets/fonts/Nexa-LightItalic.ttf",
+      "sha1": "35b52f9773837b7ec7e3f5f31ecc8a35d86ae079"
+    },
+    {
+      "path": "src/_assets/fonts/Nexa-Regular.ttf",
+      "sha1": "38ca73f0aaedd73acbe005780845afa784a407f7"
+    },
+    {
+      "path": "src/_assets/fonts/Nexa-Thin.ttf",
+      "sha1": "6dffe5339ba8cee051a68dfc45bfbdea62e3a573"
+    },
+    {
+      "path": "src/_assets/fonts/Nexa-ThinItalic.ttf",
+      "sha1": "43a412664107d86b0f7c1ccb92f5f1a5596d4ce0"
+    },
+    {
+      "path": "src/_assets/fonts/Nexa-XBold.ttf",
+      "sha1": "09d7cb458a652132eb992bfaecb12323164a18e9"
+    },
+    {
+      "path": "src/_assets/fonts/Nexa-XBoldItalic.ttf",
+      "sha1": "e666c3340ac64d42ffc185e02c9b6931be714150"
+    }
+  ]
+}

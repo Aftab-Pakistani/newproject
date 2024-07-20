@@ -1,0 +1,32 @@
+{
+  "extends": "@react-native/typescript-config/tsconfig.json",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "target": "ES2015",
+    "strict": true,
+    "baseUrl": "./",
+    "moduleResolution": "node16",
+    "allowSyntheticDefaultImports": true,
+    "paths": {
+      "@assets": ["./src/_assets"],
+      "@modals": ["./src/_modals"],
+      "@hooks": ["./src/_hooks"],
+      "@ui": ["./src/_ui"],
+      "@navigations": ["./src/_navigations"],
+      "@forms": ["./src/_forms"],
+      "@settings": ["./src/_settings"],
+      "@query": ["src/_query"],
+      "@ts": ["./src/_ts"],
+      "@atoms": ["./src/atoms"],
+      "@molecules": ["./src/molecules"],
+      "@organisms": ["./src/organisms"],
+      "@screens": ["./src/screens"],
+      "@services": ["src/_services"],
+      "@validations": ["src/_validations"],
+      "@helper": ["src/_helper"],
+      "@storage": ["src/_storage"],
+      "@cards": ["src/_cards"],
+      "@icons": ["src/_assets/icons"]
+    }
+  }
+}

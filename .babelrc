@@ -1,0 +1,30 @@
+{
+  "plugins": [
+    [
+      "module-resolver",
+      {
+        "alias": {
+          "@assets": "./src/_assets",
+          "@modals": "./src/_modals",
+          "@services": "./src/_services",
+          "@ui": "./src/_ui",
+          "@navigations": "./src/_navigations",
+          "@forms": "./src/_forms",
+          "@settings": "./src/_settings",
+          "@ts": "./src/_ts",
+          "@atoms": "./src/atoms",
+          "@molecules": "./src/molecules",
+          "@organisms": "./src/organisms",
+          "@screens": "./src/screens",
+          "@hooks": "./src/_hooks",
+          "@validations": "./src/_validations",
+          "@helper": "./src/_helper",
+          "@query": "./src/_query",
+          "@storage": "./src/_storage",
+          "@cards": "./src/_cards",
+          "@icons": "./src/_assets/icons"
+        }
+      }
+    ]
+  ]
+}
